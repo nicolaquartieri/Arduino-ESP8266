@@ -5,7 +5,7 @@ In this example I will show you how you can do that and more. We are going to us
 
 You can even you this example to acquire ADC data and send it to Thingspeak for example Voltage level display, Temperature or Humidity levels through time.
 
-![Image of Thingspeak data diplay](https://github.com/nicolaquartieri/Arduino-ESP8266/img/fielddata.png)
+![Image of Thingspeak data diplay](https://github.com/nicolaquartieri/Arduino-ESP8266/blob/master/img/fielddata.png)
 
 Features:
  * Update every 15sec with new data.
